@@ -1,0 +1,24 @@
+# _config.yml
+
+title: My Jekyll Blog
+author: Youngmuk Kim
+description: A simple blog powered by Jekyll and the minima theme.
+
+# Theme 설정
+theme: minima
+
+# 기타 설정 (선택사항)
+# baseurl: "/my-blog" # 사이트가 하위 디렉토리에 있을 경우
+# url: "https://yourdomain.com" # 배포 시 실제 도메인
+
+# markdown 처리 방식
+markdown: kramdown
+
+# 소셜 미디어 (minima 테마에서 사용 가능)
+social_links:
+  github: mukmookk
+  linkedin: Young Muk Kim
+
+# Build settings
+plugins:
+  - jekyll-feed

@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
----
-
+title: Welcome to My Tech Blog
+layout: home
+----
